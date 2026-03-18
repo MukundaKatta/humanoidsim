@@ -58,6 +58,3 @@ humanoidsim/
 └── package.json
 ```
 
-## License
-
-MIT
